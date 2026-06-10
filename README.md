@@ -1,45 +1,41 @@
 # Readme-Beautifician
 
-## Objective
+## 🎯 Objective
 
 Improve Documentation Formatting
 
-## Features
+ 
+## ✨ Features 
 
 - Headers 
 - Bullet Points
 - Tables
 - Emojies
 - Links
+  
 
-## Tool Used
+## 🛠 Tool Used
 
 |      Tool      |    Purpose        |
 |----------------|-----------------  |
 |    Git Hub     |  Version Control  |
 |   Mark Down    |  Documentataion   |
 
-## Emoji
 
- 🎯 Objective
+ ## 🔗 Links
  
- 🛠  Tools Used
- 
- 📚 Learnings
- 
- 🔗 Links
-
- ## Links
  (Git Hub)  ["https://github.com/Shaik-Thahasine"]
 
-## Expected Learning
+
+## 📚 Expected Learning
 
 • Professional documentation
 
-• Markdown styling
+• Markdown styling 
 
 • Repository presentation
 
-## Conclusion
+
+## 🎉 Conclusion
 
 By completing this task i have successfully learned to create professional documentation with the markdown.
