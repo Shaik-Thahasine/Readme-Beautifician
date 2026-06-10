@@ -22,9 +22,14 @@ Improve Documentation Formatting
 ## Emoji
 
  🎯 Objective
+ 
  🛠  Tools Used
+ 
  📚 Learnings
+ 
  🔗 Links
 
  ## Links
- (Git Hub)  ["
+ (Git Hub)  ["https://github.com/Shaik-Thahasine"]
+
+ (Resume)   ["file:///C:/Users/THAHASIN/Downloads/THAHASINE_SHAIK%20.pdf"]
