@@ -32,4 +32,14 @@ Improve Documentation Formatting
  ## Links
  (Git Hub)  ["https://github.com/Shaik-Thahasine"]
 
- (Resume)   ["file:///C:/Users/THAHASIN/Downloads/THAHASINE_SHAIK%20.pdf"]
+## Expected Learning
+
+• Professional documentation
+
+• Markdown styling
+
+• Repository presentation
+
+## Conclusion
+
+By completing this task i have successfully learned to create professional documentation with the markdown.
